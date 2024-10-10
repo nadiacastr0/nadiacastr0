@@ -21,13 +21,6 @@
   <img align="center" alt="Na-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
-## Estatísticas do GitHub
-<div>
-  <a href="https://github.com/nadiacastr0"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadiacastr0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiacastr0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Se conecte comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7b68ee&color:FFF)](https://www.linkedin.com/in/nadia-naely/)
