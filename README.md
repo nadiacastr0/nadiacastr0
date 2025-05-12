@@ -10,7 +10,7 @@ Trabalho na criação de sistemas de automação de tarefas utilizando 🐍 **Py
 - 🎮 **Girl Gamer**  
 - 🐱 **Amo gatos**  
 - ☕ **Viciada em café**  
-- 🌍 **Adoro viajar e explorar lugares ao ar livre**  
+- 🌍 **Adoro explorar lugares ao ar livre**  
 
 ---
 
