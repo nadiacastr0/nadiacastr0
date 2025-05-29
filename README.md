@@ -40,6 +40,7 @@ Trabalho na criação de sistemas de automação de tarefas utilizando **Python*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadiacastr0&show_icons=true&theme=dracula&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiacastr0&show_icons=true&theme=dracula&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9" height="170">
+   <img src="https://git-hub-streak-stats.vercel.app?user=nadiacastr0?&show_icons=true&theme=dracula&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9" height="170"/>
 </p>
 
 ---
