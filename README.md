@@ -51,7 +51,7 @@ Sempre buscando aprender novas tecnologias e criar soluções inovadoras.
 
 Estou sempre aberta a novas oportunidades, colaborações e conversas interessantes:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadianaely32@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nadianaely32@gmail.com&su=Conexão%20e%20oportunidades&body=Olá%2C%0A%0AEspero%20que%20você%20esteja%20bem.%20Gostaria%20de%20me%20apresentar%20e%20conversar%20sobre%20possíveis%20colaborações%20ou%20oportunidades.%0A%0AAtenciosamente%2C%0ANadia%20Castro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-naely/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a6024f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-nine-bay-30.vercel.app/)
 
