@@ -1,8 +1,8 @@
 # 🌟 Olá! Me chamo Nadia  
 
-🚀 **Desenvolvedora Fullstack**
+🚀 **Desenvolvedora Front-End**
 
-Trabalho na criação de sistemas de automação de tarefas utilizando **Python**. Sempre buscando aprender novas tecnologias e criar soluções inovadoras.
+Sempre buscando aprender novas tecnologias e criar soluções inovadoras.
 
 ---
 
@@ -18,20 +18,22 @@ Trabalho na criação de sistemas de automação de tarefas utilizando **Python*
 
 ## 🛠️ Expertise Técnica
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-B79A00?style=for-the-badge&logo=powerbi&logoColor=white)
-
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 **Principais Áreas de Foco:**
-- Desenvolvimento Fullstack
-- Automação de Processos
-- Interface de Usuário (UI/UX)
-- Análise de dados
+- Desenvolvimento Front-end
+- UI/UX Desing
 
 ---
 
